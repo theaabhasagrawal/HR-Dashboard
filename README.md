@@ -1,7 +1,7 @@
 # HR-Dashboard
 An interactive HR Dashboard built with Tableau for detailed workforce analysis.
 
-https://github.com/user-attachments/assets/2d27c66f-0d25-4f09-be55-b365d3813bfe
+https://github.com/user-attachments/assets/e70d864b-8235-4db2-a86f-343a9466271b
 
 This HR Dashboard project, built using Tableau, provides a powerful and comprehensive tool for human resources analysis. Designed with HR managers in mind, the dashboard allows users to gain both high-level insights and in-depth analysis of employee data, enabling better decision-making and workforce management.
 
